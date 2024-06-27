@@ -1,0 +1,24 @@
+{
+  "area": "mp",
+  "scale": true,
+  "signal": {
+    "EEG":true,
+    "SCH":true,
+    "SCF":true
+  },
+  "regression": {
+    "train_regression": true,
+    "max_iterations": 20,
+    "metric": "RMSE"
+  },
+    "XAI": {
+      "shap": true,
+      "shap_model": "RF",
+      "selectfeat_path": "features_shap_select"
+    },
+      "save": {
+      "save_results_path": "MERF_vs_FIXED_all_SHAP"
+    }
+}
+
+

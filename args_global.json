@@ -1,0 +1,8 @@
+{      
+      "cohort": "chronic",
+      "results_dir": "results",
+      "features_dir": "datasets",
+      "trials_path": "Trials.pkl",
+      "subjects_path": "Subjects.csv",
+      "subjectareas_path": "SubjectAreas.csv"
+}
