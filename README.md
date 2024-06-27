@@ -1,5 +1,8 @@
-# Pain
 Repository to replicate the results presented in **Unravelling the physiological and psychosocial signatures of pain by machine learning**
+
+Please refer to:
+
+[![DOI](https://zenodo.org/badge/820861502.svg)](https://zenodo.org/doi/10.5281/zenodo.12568973)
 
 ## Requirements
 Install [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation). If using Miniconda, check the "Add Miniconda3 to my PATH envorinment variable" during the installation.
