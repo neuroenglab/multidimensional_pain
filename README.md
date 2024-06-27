@@ -1,5 +1,5 @@
 # Pain
-Repository for **Artificial Intelligence to unravel the interplay between physiological and psychosocial pain biomarkers**
+Repository to replicate the results presented in **Unravelling the physiological and psychosocial signatures of pain by machine learning**
 
 ## Requirements
 Install [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation). If using Miniconda, check the "Add Miniconda3 to my PATH envorinment variable" during the installation.
