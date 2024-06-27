@@ -1,6 +1,6 @@
 Repository to replicate the results presented in **Unravelling the physiological and psychosocial signatures of pain by machine learning**
 
-Please refer to:
+Please refer to this code as:
 
 [![DOI](https://zenodo.org/badge/820861502.svg)](https://zenodo.org/doi/10.5281/zenodo.12568973)
 
@@ -15,6 +15,10 @@ We recommend [VS Code](https://code.visualstudio.com/) with the default [Python 
 After creating the `conda` environment, it can be set as current Python environment by pressing `Ctrl+Shift+P` and running `Python: Select interpreter`.
 
 ## Data
+Data can be downloaded from:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12570277.svg)](https://doi.org/10.5281/zenodo.12570277)
+
 Run: `init` and select the parent directory where you have extracted all the data. The data must be extracted in a **subfolder called datasets**
 
 Alternately, set it manually by writing the path in a dataDir.txt file placed in the root code folder.
