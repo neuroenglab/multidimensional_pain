@@ -1,4 +1,8 @@
-Repository to replicate the results presented in **Unravelling the physiological and psychosocial signatures of pain by machine learning**
+Repository to replicate the results presented in 
+
+_N. Gozzi, G. Preatoni, F. Ciotti, M. Hubli, P. Schweinhardt, A. Curt, S. Raspopovic_, 
+**Unraveling the physiological and psychosocial signatures of pain by machine learning. Med 0 (2024).**
+Link: [https://www.cell.com/med/fulltext/S2666-6340(24)00298-8](https://www.cell.com/med/fulltext/S2666-6340(24)00298-8)
 
 Please refer to this code as:
 
